@@ -27,7 +27,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <p>Click on the Tauri, Vite, and React logos to learn more.</p>
+      <p>꾸니시월의 첫 번째 데스크톱 앱에 오신 것을 환영합니다!.</p>
 
       <form
         className="row"
